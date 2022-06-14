@@ -1,0 +1,10 @@
+.container-custom{
+    margin-top: 25px;
+    max-width: 750px;
+    background-color: antiquewhite;
+}
+
+.column-1{
+    background-color: aqua;
+    color: white;
+}
